@@ -14,15 +14,15 @@ class WithSociaMedia extends StatelessWidget {
       mainAxisAlignment: MainAxisAlignment.spaceBetween,
       children: [
         DJIconButton.socialMedia(
-          width: size.width / 3 - 28,
+          width: size.width / 3.0 - 28.0,
           icon: Assets.icons.icFacebook,
         ),
         DJIconButton.socialMedia(
-          width: size.width / 3 - 28,
+          width: size.width / 3.0 - 28.0,
           icon: Assets.icons.icGoogle,
         ),
         DJIconButton.socialMedia(
-          width: size.width / 3 - 28,
+          width: size.width / 3.0 - 28.0,
           icon: Assets.icons.icApple,
         ),
       ],
