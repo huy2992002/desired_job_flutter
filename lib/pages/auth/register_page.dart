@@ -3,8 +3,8 @@ import 'package:desired_job_flutter/components/background/dj_background_auth.dar
 import 'package:desired_job_flutter/components/button/dj_elevated_button.dart';
 import 'package:desired_job_flutter/components/button/dj_icon_button.dart';
 import 'package:desired_job_flutter/components/text/dj_second_text.dart';
-import 'package:desired_job_flutter/components/text/ja_text_divider.dart';
-import 'package:desired_job_flutter/components/text/ja_title.dart';
+import 'package:desired_job_flutter/components/text/dj_text_divider.dart';
+import 'package:desired_job_flutter/components/text/dj_title.dart';
 import 'package:desired_job_flutter/components/textfield/dj_text_field.dart';
 import 'package:desired_job_flutter/components/textfield/dj_text_field_password.dart';
 import 'package:desired_job_flutter/constants/string.dart';
